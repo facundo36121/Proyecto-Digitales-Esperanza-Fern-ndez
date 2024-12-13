@@ -1,4 +1,4 @@
-# Proyecto-Digitales-Esperanza-Fern-ndez
+# Proyecto-Digitales-Esperanza-Fernandez
 INTRODUCCIÓN
 
 Este proyecto surge de la necesidad de sensar la temperatura de una piscina y obtener datos para de esta manera tener un control y realizar un monitoreo de la misma con cualquier celular o computadora que cuente con conexión a una red Wifi.
